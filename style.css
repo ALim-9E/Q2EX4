@@ -1,0 +1,21 @@
+body {
+	background-color: #FFC1CC;
+	color: white;
+	font-family: Sour Gummy;
+}
+
+.container {
+	background-color: #9bca47;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.btn {
+	background-color: #ff8da1;
+	border-color: #ff8da1;
+}
+
+.btn:hover {
+	background-color: #008000;
+	border-color: #008000;
+}
